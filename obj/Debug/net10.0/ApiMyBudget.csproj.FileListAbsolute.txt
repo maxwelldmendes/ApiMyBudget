@@ -146,3 +146,4 @@ C:\Projetos\ProjetosCSharp\ApiMyBudget\obj\Debug\net10.0\refint\ApiMyBudget.dll
 C:\Projetos\ProjetosCSharp\ApiMyBudget\obj\Debug\net10.0\ApiMyBudget.pdb
 C:\Projetos\ProjetosCSharp\ApiMyBudget\obj\Debug\net10.0\ApiMyBudget.genruntimeconfig.cache
 C:\Projetos\ProjetosCSharp\ApiMyBudget\obj\Debug\net10.0\ref\ApiMyBudget.dll
+C:\Projetos\ProjetosCSharp\ApiMyBudget\obj\Debug\net10.0\ApiMyBudget.sourcelink.json

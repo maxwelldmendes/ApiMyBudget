@@ -1,9 +1,12 @@
-// Classe que sera usada para persistir o objeto no banco de dados.
+using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace ApiMyBudget.ModelsDTO
 {
-    public class ClassesOfAccountDto
+    public class ReadClassOfAccountsDTO
     {
         public int Id { get; set; }
         [Required]

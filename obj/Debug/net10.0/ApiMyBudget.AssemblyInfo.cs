@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiMyBudget")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f82dd8cdd25948e2257869e657ad6817276a5eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiMyBudget")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiMyBudget")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
